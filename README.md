@@ -1,6 +1,6 @@
 # YouTube Caption Search Tool (CapScript)
 
-[![Buy Me a Coffee]([https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-yellow?logo=buy-me-a-coffee&style=social](https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black))](https://www.buymeacoffee.com/bitArtisan)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/bitArtisan)
 
 
 <div align="right">
