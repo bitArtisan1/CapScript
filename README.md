@@ -105,7 +105,7 @@ If you found this to be useful, make sure to follow me for more 🙃
 <center>
 <div style="text-align: center;">
   <p align="center">
-   <img src="https://github.com/user-attachments/assets/13333030-bd33-4cf6-a2b5-d1dacab12642" alt="octodance" style="margin-right: 10px;"/>
+   <img src="https://github.com/user-attachments/assets/36a3e590-bad2-463d-a25e-f56d65c26761" alt="octodance" style="margin-right: 10px;"/>
   </p>
 </div>
 </center>
