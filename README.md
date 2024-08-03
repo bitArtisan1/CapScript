@@ -4,7 +4,7 @@
     <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=bitArtisan&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
   </a>
 </div>
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-yellow?logo=buy-me-a-coffee&style=social)](https://www.buymeacoffee.com/YOUR_USERNAME)
+[![Buy Me a Coffee]([https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-yellow?logo=buy-me-a-coffee&style=social](https://img.shields.io/badge/Buy_Me_A_Coffee-5F7FFF?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black))](https://www.buymeacoffee.com/YOUR_USERNAME)
 
 ## Overview
 CapScript is a Python console script that utilizes the YouTube Data API and the YouTube Transcript API to search for specific words or phrases within the captions (subtitles) of YouTube videos. The tool allows users to perform targeted searches across individual videos, multiple videos specified through a list, or videos associated with a particular YouTube channel. The matching captions and corresponding timestamps are collected and saved to a text file for easy reference.
