@@ -107,7 +107,7 @@ If you find RepoUp useful, consider supporting me by:
 <a href="https://www.buymeacoffee.com/bitArtisan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=bitArtisan&button_colour=CBC3E3&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 <center>
     
-    ---
+---
 For any issues or feature requests, please open an issue on GitHub. Happy coding!
 
 <div style="text-align: center;">
