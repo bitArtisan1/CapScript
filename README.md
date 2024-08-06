@@ -97,12 +97,19 @@ To search for videos associated with a specific YouTube channel, you need a uniq
 ![god_caption](https://github.com/yanpuri/CapScript/assets/121260820/d96ece6e-949c-4cfd-81d7-5c75e0c2d305)
 
 ## Support Me
-If you liked this, please consider leaving a star ⭐
+If you find RepoUp useful, consider supporting me by:
 
-If you found this to be useful, make sure to follow me for more 🙃
+- Starring the repository on GitHub
+- Sharing the tool with others
+- Providing feedback and suggestions
+- Follow me for more :)
 
 <a href="https://www.buymeacoffee.com/bitArtisan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=bitArtisan&button_colour=CBC3E3&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 <center>
+    
+    ---
+For any issues or feature requests, please open an issue on GitHub. Happy coding!
+
 <div style="text-align: center;">
   <p align="center">
     <img src="https://github.com/user-attachments/assets/36a3e590-bad2-463d-a25e-f56d65c26761" alt="octodance" width="100" height="100" style="margin-right: 10px;"/>
