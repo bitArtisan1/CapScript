@@ -47,7 +47,9 @@ CapScript is a Python console script that utilizes the YouTube Data API and the 
    git clone https://github.com/yanpuri/CapScript.git
    ```
 3. Install requirements.txt (if not already installed):
-   ```pip install -r requirements.txt```
+   ```
+   pip install -r requirements.txt
+   ```
    
 5. Inside the directory of the installation, run the script:
    ```
