@@ -46,17 +46,20 @@ CapScript is a Python console script that utilizes the YouTube Data API and the 
    ```
    git clone https://github.com/yanpuri/CapScript.git
    ```
-3. Inside the directory of the installation, run the script:
+3. Install requirements.txt (if not already installed):
+   ```pip install -r requirements.txt```
+   
+5. Inside the directory of the installation, run the script:
    ```
    python CapScript.py
    ```
-3. **Search Mode Selection**: The script will prompt you to choose a search mode: "Channel" or "Video". 
+6. **Search Mode Selection**: The script will prompt you to choose a search mode: "Channel" or "Video". 
    - "Channel": You will be asked to enter the YouTube channel ID, the number of videos to search, and the caption language.
    - "Video": You can either enter individual video IDs separated by commas or provide a path to a file containing the video IDs.
 
-4. **Search Term Input**: After selecting the search mode, enter the word or phrase you want to search for within the captions.
+7. **Search Term Input**: After selecting the search mode, enter the word or phrase you want to search for within the captions.
 
-5. **Results**: The script will begin the search process and display a progress indicator. After completion, it will show the total number of matches found. The matching captions and corresponding timestamps will be saved in a text file inside the "transcripts" folder.
+8. **Results**: The script will begin the search process and display a progress indicator. After completion, it will show the total number of matches found. The matching captions and corresponding timestamps will be saved in a text file inside the "transcripts" folder.
 
 ## Obtaining a YouTube Data API Key
 To use CapScript, you need a valid YouTube Data API key. Follow the steps below to obtain one:
