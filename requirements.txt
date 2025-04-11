@@ -1,0 +1,3 @@
+youtube-transcript-api
+google-api-python-client
+rich
