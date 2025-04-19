@@ -11,9 +11,6 @@
  
  <p align="center">
    <img src="https://github.com/user-attachments/assets/23e754c6-915e-4fd7-8c58-e6b93da97b13" alt="Image Description" width=600 height=400>
-   <a href="https://ko-fi.com/D1D11CZNM1">
-     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
-   </a>
  </p>
  
  
