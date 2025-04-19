@@ -1,8 +1,8 @@
-<p align="center">
-<a href="https://ko-fi.com/D1D11CZNM1">
-  <img src="https://github.com/user-attachments/assets/ba118768-9054-416f-b7b2-adaa69a53434" alt="Support me on Ko-fi" width="200" />
-</a>
-</p>
+<div align="right">
+     <a href="https://www.buymeacoffee.com/bitArtisan">
+         <img src="https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee Pls!" />
+     </a>
+ </div>
  
  # YouTube Caption Search Tool (CapScript)
  
