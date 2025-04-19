@@ -106,9 +106,7 @@
  - Providing feedback and suggestions
  - Follow me for more :)
  
- <a href="https://ko-fi.com/D1D11CZNM1">
-   <img src="https://github.com/user-attachments/assets/ba118768-9054-416f-b7b2-adaa69a53434" alt="Support me on Ko-fi" width="200" />
- </a>
+<a href="https://www.buymeacoffee.com/bitArtisan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=bitArtisan&button_colour=CBC3E3&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
  <center>
      
  ---
