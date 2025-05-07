@@ -182,7 +182,7 @@ If you find CapScript Pro useful, consider supporting by:
 ## 🏷️ Tags for Discovery
 Keywords to help users find CapScript Pro:
 
-`YouTube SEO`, `Video Content Strategy`, `Content Repurposing`, `Video Clipping Tool`, `Transcription Software`, `YouTube Channel Growth`, `Video Marketing`, `Python Video Utilities`, `Open Source Video Projects`, `Multimedia Tools`
+`YouTube SEO`, `Video Content Strategy`, `Content Repurposing`, `Video Clipping Tool`, `Transcription Software`, `YouTube Channel Growth`, `Video Marketing`, `Python Video Utilities`, `Open Source Video Projects`, `Multimedia Tools`, `YouTube Caption Search`, `YouTube Transcript Viewer`, `YouTube Clip Downloader`, `Subtitle Search Tool`, `Closed Caption Finder`, `Timestamped Captions`, `Batch Video Processing`, `Automated Video Downloads`, `Video Keyword Search`, `yt-dlp GUI`, `ffmpeg GUI`, `Desktop Application`, `Python YouTube Tool`
 
 ---
 
