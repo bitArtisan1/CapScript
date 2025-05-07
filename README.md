@@ -179,6 +179,13 @@ If you find CapScript Pro useful, consider supporting by:
 
 ---
 
+## 🏷️ Tags for Discovery
+Keywords to help users find CapScript Pro:
+
+`YouTube SEO`, `Video Content Strategy`, `Content Repurposing`, `Video Clipping Tool`, `Transcription Software`, `YouTube Channel Growth`, `Video Marketing`, `Python Video Utilities`, `Open Source Video Projects`, `Multimedia Tools`
+
+---
+
 ## 🐛 Issues & Feature Requests
 <p align="center">
   For any issues or feature requests, please <a href="https://github.com/bitArtisan1/CapScript-Pro/issues">open an issue on GitHub</a>. Happy coding!
