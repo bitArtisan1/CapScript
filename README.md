@@ -7,7 +7,7 @@
 # 🎬 CapScript Pro: Advanced YouTube Caption Search & Clip Tool
 
 <p align="center">
-  <img alt="Python Version" src="https://img.shields.io/badge/python-3.8+-blue.svg">
+  <img alt="Python Version" src="https://img.shields.io/badge/python-3.8+-red.svg">
   <img alt="License" src="https://img.shields.io/badge/license-GPLv3-green.svg"> 
   <a href="https://github.com/bitArtisan1/CapScript-Pro/releases">
     <img alt="Latest Release" src="https://img.shields.io/github/v/release/bitArtisan1/CapScript-Pro">
